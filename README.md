@@ -1,0 +1,2 @@
+# miner01
+ambyar
